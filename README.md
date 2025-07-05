@@ -90,5 +90,10 @@ Use the following resources to reproduce the results reported in our paper:
 ## Citation
 
 ```bibtex
-TBD
+@article{bohacek2025uncovering,
+  title={Uncovering Conceptual Blindspots in Generative Image Models Using Sparse Autoencoders},
+  author={Bohacek, Matyas and Fel, Thomas and Agrawala, Maneesh and Lubana, Ekdeep Singh},
+  journal={arXiv preprint arXiv:2506.19708},
+  year={2025}
+}
 ```
